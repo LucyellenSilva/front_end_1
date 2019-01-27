@@ -1,3 +1,3 @@
-# projeto-front-1
-# front-end-1
-# front_end_1
+Primeiro projeto de front-end com fins de estudo, criando uma pagina com layout.
+
+HTML E CSS
